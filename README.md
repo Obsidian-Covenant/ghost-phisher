@@ -19,7 +19,7 @@ Key changes:
 
 Runtime dependencies:
 ```
-'aircrack-ng' 'metasploit' 'python' 'python-bottle' 'python-pyqt6' 'python-scapy' 'xterm'
+aircrack-ng metasploit python python-bottle python-pyqt6 python-scapy xterm
 ```
 
 #### From source
